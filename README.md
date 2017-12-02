@@ -7,4 +7,14 @@ For K-Means:
 
 For Watershed:
 
+Libiaries:
+
+numpy, opencv(cv2), matplotlib
+
+python watershed.py image.jpg
+
 For FCNs:
+
+Libiaries:
+
+numpy, opencv(cv2), matplotlib, tensorflow, skimage
