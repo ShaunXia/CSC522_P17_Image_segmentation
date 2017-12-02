@@ -2,7 +2,12 @@
 CSC522_P17_Image_Segmentation
 
 ### For Benchmark:
+Operating System: Ubuntu 16.04 (64bit)
 
+Software: Matlab
+
+Run: 
+> Refer to https://goo.gl/JTFHuw
 ### For K-Means:
 
 ### For Watershed:
