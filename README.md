@@ -20,7 +20,11 @@ Run:
 > python watershed.py image.jpg
 
 ### For FCNs:
+Change path in Python files first.
+Run:
+> python inference.py
 
+> python training.py
 #### libraries:
 
 numpy, opencv(cv2), matplotlib, tensorflow, skimage
