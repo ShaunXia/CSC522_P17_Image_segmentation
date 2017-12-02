@@ -1,20 +1,21 @@
 # CSC522_P17_Image_segmentation
 CSC522_P17_Image_Segmentation
 
-For Benchmark:
+### For Benchmark:
 
-For K-Means:
+### For K-Means:
 
-For Watershed:
+### For Watershed:
 
-Libiaries:
+#### libraries:
 
 numpy, opencv(cv2), matplotlib
 
-python watershed.py image.jpg
+Run:
+> python watershed.py image.jpg
 
-For FCNs:
+### For FCNs:
 
-Libiaries:
+#### libraries:
 
 numpy, opencv(cv2), matplotlib, tensorflow, skimage
